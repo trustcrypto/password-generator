@@ -1,9 +1,9 @@
-# [Password Generator](https://calebj0seph.github.io/password-generator)
+# [Password Generator](https://passwordgenerator.website)
 > A configurable and cryptographically secure random password generator that
   runs inside your browser.
 
 __Looking to use Password Generator? Head
-[here](https://calebj0seph.github.io/password-generator)!__
+[here](https://passwordgenerator.website)!__
 
 ## About
 Password Generator is a web app that generates random passwords inside your
