@@ -2,13 +2,13 @@
   "name": "password-generator",
   "version": "1.0.0",
   "description": "A secure & customisable password generator made with Vue.js",
-  "homepage": "http://calebj0seph.github.io/password-generator",
-  "repository": "github:calebj0seph/password-generator",
+  "homepage": "http://onlykey.io",
+  "repository": "github:trustcrypto/password-generator",
   "scripts": {
     "build": "rimraf dist && webpack --mode=production --progress --config webpack.prod.js",
     "start": "webpack serve --color --progress --config webpack.dev.js"
   },
-  "author": "Caleb Joseph",
+  "author": "CryptoTrust",
   "license": "MIT",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
